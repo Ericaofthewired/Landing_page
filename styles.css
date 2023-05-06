@@ -75,6 +75,7 @@ body {
 .info_header {
     text-align: center;
     color: #F9FAF8;
+    font-size: 40px;
 }
 .trainers {
     display: flex;
@@ -176,6 +177,13 @@ ul {
 }
 h1 {
     margin: 0;
+}
+h2 {
+    margin: 0;
+}
+h3 {
+    margin: 0;
+    font-size: 28px;
 }
 p {
     margin: 0;
